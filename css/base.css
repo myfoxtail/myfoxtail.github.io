@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input, abbr, article, aside, details, figcaption, figure, footer, header, mark, meter, nav, output, progress, section, summary, time {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: 'Overpass Mono', monospace;
+}
+
+html {
+    background-color: #1d1d20;
+    color: #fff;
+    /*#6cffa9*/
+}
