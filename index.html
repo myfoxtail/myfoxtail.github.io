@@ -3,4 +3,13 @@ layout: layout
 title: "About"
 ---
 
-<p>This website is in progress of becoming something bigger.</p>
+<div>
+    {% for post in site.posts %}
+    {% unless post.draft %}
+    <div class="post-box">
+        <a style="background-image: url('/img/{{ post.img }}.jpg');" href="{{ post.url }}"></a>
+        <p>{{ post.title }}</p>
+    </div>
+    {% endunless %}
+    {% endfor %}
+</div>

@@ -2,3 +2,4 @@ name: Sunlies
 description: Sunlies Visual World
 url: https://sunlies.com.au
 github_username: myfoxtail
+permalink: /posts/:title/

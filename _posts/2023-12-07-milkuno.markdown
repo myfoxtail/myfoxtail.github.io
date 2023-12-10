@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Be free and choose your milk"
+subtitle: "Post subtitle"
+img: "milkuno"
+category: posts
+---
+
+## Do we always have to be serious about what milk people drink
+
