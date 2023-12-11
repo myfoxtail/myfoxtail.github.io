@@ -6,5 +6,16 @@ img: "milkuno"
 category: posts
 ---
 
+
+## MILKUNO non-dairy milk
+
+<img src="/img/milkuno-1.jpg" class="content-img-full" />
+
 ## Do we always have to be serious about what milk people drink
+
+<span class="half-content">The simple answer is – it’s not us vs them. 
+MILKUNO is all about freedom or choice, taking it easy and enjoying the ride. 
+There will be moments to take things seriously and make hard decisions but not when you just want to enjoy the moment.
+
+<img src="/img/milkuno-logo.gif" class="content-img-full" />
 
