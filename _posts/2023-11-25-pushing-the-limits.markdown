@@ -56,6 +56,6 @@ Australia, 2023
 
 ### References
 
-<a target="_blank" href="https://klim.co.nz/retail-fonts/maelstrom-sans/">Maelstrom Sans Bold</a>
+[Maelstrom Sans Bold](https://klim.co.nz/retail-fonts/maelstrom-sans/)
 
-<a target="_blank" href="https://www.charlevilleactionjazz.com/photos.htm">Photography</a>
+[Photography](https://www.charlevilleactionjazz.com/photos.htm)
