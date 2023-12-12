@@ -30,19 +30,22 @@ html, body { height: 100%; min-height: 100%; position: relative; width: 100%; -w
 html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input, abbr, article, aside, details, figcaption, figure, footer, header, mark, meter, nav, output, progress, section, summary, time {
     margin: 0; padding: 0; font-size: 12px; font-family: 'Overpass Mono', monospace; }
 
-html { background-color: #1d1d20; color: #fff; }
+/*html { background-color: #1d1d20; color: #fff; }*/
+html { background: #1d1d20 url("/img/05.png") repeat; background-size: contain; background-blend-mode: soft-light; color: #fff; }
+
+body {display: flex; flex-direction: column; min-height: 100%}
 
 a { position: relative; font-weight: bold; border-bottom: none; margin: 0; color: var(--green); cursor: pointer; }
 p {margin-bottom: var(--spacing-s); font-size: var(--font-size-xs); display: flex;}
+    p img {width: 100% }
 h2 {font-size: var(--font-size-b); margin-bottom: var(--spacing);  margin-top: var(--spacing-l)}
 h3 {font-size: var(--font-size); margin-bottom: var(--spacing-xs)}
 
 /*Main content styles*/
 
-.content { max-width: var(--content-width); margin: 0 auto; margin-top: var(--spacing-m); margin-bottom: var(--spacing-l); padding: 0; width: inherit; }
+.content { max-width: var(--content-width); margin: 0 auto; margin-top: var(--spacing-m); margin-bottom: var(--spacing-l); padding: 0 var(--spacing-xs); width: inherit; flex: 1}
     .content > div {width: 100%; display: flex; flex-wrap: wrap;}
 
-.content-img-full { width: 100% }
 .content-img-half {width: 50%;}
 .content-img-half:nth-child(odd) { margin-right: var(--spacing-m) }
 
@@ -60,12 +63,22 @@ h3 {font-size: var(--font-size); margin-bottom: var(--spacing-xs)}
 /*Nav manu*/
 
 nav { width: 100%; align-items: center; padding: var(--spacing) 0; margin-bottom: var(--spacing-l); color: black; margin-bottom: 0; }
-    nav > ul { display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; width: var(--content-width); max-width: 100%; margin: var(--spacing-s) auto; }
+    nav > ul { display: flex; flex-direction: row; flex-wrap: wrap;  width: var(--content-width); max-width: 100%; margin: var(--spacing-s) auto; }
         nav > ul > li { list-style: none; margin: var(--spacing-xs) var(--spacing-s); }
+            nav > ul > li:first-child { flex: 1; margin-left: 0; }
+            nav > ul > li:last-child { margin-right: 0 }
 
-    nav a {font-size: var(--font-size-s);}
+    nav a {font-size: var(--font-size-xs); text-decoration: none; text-transform: uppercase; opacity: 0.7}
         nav a:hover { color: var(--backgound); background: white; z-index: 0; }
+
+    .logotype { display: block; width: 100px; height: 100%; background-size: contain; opacity: 1; font-size: var(--font-size-s) }
+    .logotype:hover {background: url("/img/sunlies.svg") no-repeat; z-index: 0; color: var(--green);}
 
 /*Footer*/
 
-footer {height: 100px; width: 100%; border-top: 1px solid var(--green)}
+footer {height: 100px; width: 100%; border-top: 1px solid var(--green); opacity: 0.7}
+    footer > ul { display: flex; flex-direction: row; flex-wrap: wrap;  width: var(--content-width); max-width: 100%; margin: var(--spacing-s) auto; }
+        footer > ul > li { list-style: none; margin: var(--spacing-xs) var(--spacing-s); line-height: 2.5rem; }
+            footer > ul > li:first-child { margin-left: 0; }
+            footer > ul > li:last-child { margin-right: 0 }
+    footer a {font-size: var(--font-size-xs); text-decoration: none; text-transform: uppercase; opacity: 0.7}
