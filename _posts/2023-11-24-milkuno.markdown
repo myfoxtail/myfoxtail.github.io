@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Be free and choose your milk"
+title: "Milk that's not so serious"
 subtitle: "Post subtitle"
 img: "milkuno"
 category: posts
@@ -11,9 +11,9 @@ category: posts
 
 ![milkuno](/img/milkuno-1.jpg)
 
-## Do we always have to be serious about what milk people drink
+## Milk that's not so serious
 
-<span class="half-content">The simple answer is – it’s not us vs them. 
+<span class="half-content">Do we always have to be serious about what milk we drink? The simple answer is – it’s not us vs them. 
 MILKUNO is all about freedom or choice, taking it easy and enjoying the ride. 
 There will be moments to take things seriously and make hard decisions but not when you just want to enjoy the moment.
 
@@ -21,15 +21,17 @@ There will be moments to take things seriously and make hard decisions but not w
 
 ![milkuno](/img/milkuno-2.jpg)
 
-<span class="half-content">We believe that people who are free to make their choice form a better society in a better world. 
+<span class="half-content">People who are free to make their choice form a better society in a better world. 
 And it starts with simple things. Like different types of milk should not divide the world on milk and non-milk lovers. 
 It should unite everyone with joy and love for milk.<br/>
-The way we unite humans is by creating unique, yet simply and beautifully designed milk products.
-That’s why we’ve created MILKUNO, a symbol of liberty, love and inter-culture.
+The way MILKUNO unites humans is by creating unique, yet simply and beautifully designed milk products.
 
 ![milkuno](/img/milkuno-4.jpg)
 
 ![milkuno](/img/milkuno-3.jpg)
+
+<span class="half-content">The type used for MILKUNO, [PangramPangram Stellar Sans](https://pangrampangram.com/products/stellar-sans) 
+harmonizes with floating lines and creates the free-flowing effect inviting to take life less seriously.
 
 ![milkuno](/img/milkuno-6.jpg)
 

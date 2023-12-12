@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk about music through Asian graphic design
+title: Music expressed through Asian graphic design
 img: "pushing-the-limits"
 subtitle: editorial, magazine cover, article
 category: posts

@@ -13,12 +13,7 @@ html {
     --font-size-s: 16px;
     --font-size-xs: 13.3px;
 
-
-    --red-light:#FECBCA;
-    --red: #F83735;
-    --yellow: #FAC832;
     --green: #6cffa9;
-    --blue-light: #84B4F9;
 
     --content-width: 1600px;
 }
@@ -49,7 +44,7 @@ h3 {font-size: var(--font-size); margin-bottom: var(--spacing-xs)}
 .content-img-half {width: 50%;}
 .content-img-half:nth-child(odd) { margin-right: var(--spacing-m) }
 
-.half-content {width: 50%}
+.half-content {width: 50%; margin: var(--spacing-l) 0}
 
 /*List of posts*/
 
@@ -69,10 +64,10 @@ nav { width: 100%; align-items: center; padding: var(--spacing) 0; margin-bottom
             nav > ul > li:last-child { margin-right: 0 }
 
     nav a {font-size: var(--font-size-xs); text-decoration: none; text-transform: uppercase; opacity: 0.7}
-        nav a:hover { color: var(--backgound); background: white; z-index: 0; }
+        nav a:hover { color: var(--foreground); z-index: 0; }
 
-    .logotype { display: block; width: 100px; height: 100%; background-size: contain; opacity: 1; font-size: var(--font-size-s) }
-    .logotype:hover {background: url("/img/sunlies.svg") no-repeat; z-index: 0; color: var(--green);}
+    .logotype { background: url("/img/sunlies.svg") no-repeat;display: block; width: 100px; height: 100%; background-size: contain; opacity: 1; font-size: var(--font-size-s) }
+    /*.logotype:hover { background: url("/img/sunlies.svg") no-repeat; z-index: 1; color: var(--green);}*/
 
 /*Footer*/
 
@@ -82,3 +77,4 @@ footer {height: 100px; width: 100%; border-top: 1px solid var(--green); opacity:
             footer > ul > li:first-child { margin-left: 0; }
             footer > ul > li:last-child { margin-right: 0 }
     footer a {font-size: var(--font-size-xs); text-decoration: none; text-transform: uppercase; opacity: 0.7}
+        footer a:hover { color: var(--foreground); z-index: 0; }
