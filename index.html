@@ -7,7 +7,7 @@ title: "Sunlies Visual World"
     {% for post in site.posts %}
     {% unless post.draft %}
     <div class="post-box">
-        <a style="background-image: url('/img/{{ post.img }}.jpg');" href="{{ post.url }}"></a>
+        <a style="background-image: url('/img/{{ post.img }}.jpg'); background-position: center;" href="{{ post.url }}"></a>
         <p>{{ post.title }}</p>
     </div>
     {% endunless %}
