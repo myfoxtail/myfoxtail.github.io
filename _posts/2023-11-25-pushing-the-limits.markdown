@@ -6,7 +6,6 @@ subtitle: editorial, magazine cover, article
 category: posts
 ---
 
-
 ## Measured.<br/>Magazine cover and article
 
 ![measured](/img/pushing-the-limits-1.jpg)
@@ -25,7 +24,7 @@ The magazine grid repeats the metronome scale. Additionally, the name sits on th
 
 <img src="/img/pushing-the-limits-3.jpg" class="content-img-half" /><img style="align-self: flex-start;" src="/img/pushing-the-limits-4.jpg" class="content-img-half" />
 
-<img src="/img/pushing-the-limits-5.jpg" class="content-img-full" />
+![measured](/img/pushing-the-limits-5.jpg)
 
 ## How to design an article about jazz history that reflects the essence of the genre?
 <span class="half-content">As it is very well pointed out in the article, jazz is hard to pin down into any category due to its unshakable characteristic – improvisation.

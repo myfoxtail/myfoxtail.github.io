@@ -48,6 +48,8 @@ Such visual language can communicate certain moods and situations and be a stron
 
 ![sfm1](/img/sydney-fish-market-8.jpg)
 
+![sfm1](/img/sydney-fish-market-9.jpg)
+
 ![sfm1](/img/sydney-fish-market-10.jpg)
 
 ![sfm1](/img/sydney-fish-market-11.jpg)

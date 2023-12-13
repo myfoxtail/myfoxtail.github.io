@@ -25,7 +25,7 @@ to tell uncovered stories from the past that shaped our present. Over the images
 
 <span class="half-content">The layout of the podcast cover allows image alterations to reflect podcast episodes themes.
 
-![time capsule](/img/time-capsule-5.png)
+![time capsule](/img/time-capsule-5.jpg)
 
 ![time capsule](/img/time-capsule-6.jpg)
 

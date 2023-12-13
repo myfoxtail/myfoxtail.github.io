@@ -25,11 +25,13 @@ found in one of the [Rigas Laiks](https://www.rigaslaiks.com/) magazines.
 ![cf](/img/comedy-festival-10.jpg)
 
 <span class="half-content">From now on, it was a matter of setting up pictures conveying the right emotions. Indeed, Christian Boltanski got his spot,
-along with an image from Dead of Night from the cover of Bob Nickas book.
+along with an image from Dead of Night found on the cover of Bob Nickas book.
 
 ![cf](/img/comedy-festival-3.jpg)
 
-## Event campaign rollout
+<span class="half-content">The font used in this project is [English Egyptian](https://www.abyme.net/catalogue/englishegyptian/) which is an interpretation of William Caslon’s
+Two Lines English Egyptian of 1816, possibly the first general-purpose sans-serif typeface in the Latin alphabet known to have been created. The type balances out well 
+the colours and the main photographic visual elements.
 
 ![cf](/img/comedy-festival-4.jpg)
 
