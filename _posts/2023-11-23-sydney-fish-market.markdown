@@ -15,7 +15,7 @@ category: posts
 <span class="half-content">Since 1871, the Sydney Fish Market has been impacting the 
 fishing industry and state economy, becoming the biggest fish market in 
 the southern hemisphere. As of 2023, the new building will be a whole new market, with estimated visitor
-growth to double by 2026. It was an opportunity to get involved and create a refreshed visual identity of the market that speaks to a broader audience, 
+growth to double by 2026. It was an opportunity to get involved and create a refreshed visual identity that speaks to a broader audience, 
 including overseas and domestic tourists while preserving the heritage and authenticity of the market.
 
 ![sfm1](/img/sydney-fish-market-2.jpg)
