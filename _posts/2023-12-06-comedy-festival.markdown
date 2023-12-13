@@ -19,13 +19,13 @@ Whether it’s a book or a stand-up comedian, one thing never changes – it’s
 
 ## The book, the magazine, the ...
 
-<span class="half-content">My initial inspiration came from [Christian Boltanski](https://en.wikipedia.org/wiki/Christian_Boltanski) and his installation art 
-which I read about in one of my favourite magazines [Rigas Laiks](https://www.rigaslaiks.com/).
+<span class="half-content">The initial inspiration came from [Christian Boltanski](https://en.wikipedia.org/wiki/Christian_Boltanski) and his installation art 
+found in one of the [Rigas Laiks](https://www.rigaslaiks.com/) magazines.
 
 ![cf](/img/comedy-festival-10.jpg)
 
 <span class="half-content">From now on, it was a matter of setting up pictures conveying the right emotions. Indeed, Christian Boltanski got his spot,
-along with an image from Dead of Night, which I saw on one of my books cover.
+along with an image from Dead of Night from the cover of Bob Nickas book.
 
 ![cf](/img/comedy-festival-3.jpg)
 
