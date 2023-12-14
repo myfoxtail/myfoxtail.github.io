@@ -10,13 +10,16 @@ category: posts
 
 ![sfm1](/img/sydney-fish-market-1.jpg)
 
-## A new brand identity to converge the land and the ocean
-
 <span class="half-content">Since 1871, the Sydney Fish Market has been impacting the 
 fishing industry and state economy, becoming the biggest fish market in 
-the southern hemisphere. As of 2023, the new building will be a whole new market, with estimated visitor
+the southern hemisphere. It evidently has grown more and more into an attraction for local and overseas visitors.
+<br/><br/>As of 2023, the new building will be a whole new market, with estimated visitor
 growth to double by 2026. It was an opportunity to get involved and create a refreshed visual identity that speaks to a broader audience, 
 including overseas and domestic tourists while preserving the heritage and authenticity of the market.
+
+![sfm1](/img/sydney-fish-market-13.jpg)
+
+## A new brand identity to converge the land and the ocean
 
 ![sfm1](/img/sydney-fish-market-2.jpg)
 
